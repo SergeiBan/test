@@ -1,4 +1,5 @@
-Привет!
-hello
-friend
-haha
+Привет!;
+hello;
+friend;
+haha;
+
